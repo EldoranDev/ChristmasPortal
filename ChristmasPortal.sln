@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasPortal", "ChristmasPortal\ChristmasPortal.csproj", "{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}.Debug|ARM64.Build.0 = Debug|ARM64
+		{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}.Release|ARM64.ActiveCfg = Release|ARM64
+		{699AFF8D-E29E-4DDB-A615-2DAF6B122EA5}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC77B53D-5804-4EC4-89C2-8D1956CF92F0}
+	EndGlobalSection
+EndGlobal
